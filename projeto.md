@@ -5,8 +5,9 @@
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
 |Matheus Lucas Batista|Gerente de projeto/Analista|@gmail.com|
-|Luis Felipe Lopes|Analista|@gmail.com|
-|Thiago Hens Suchi|Analista|@gmail.com|
+|Marco Antonio Augusto de Andrade|Cliente/Professor|marco.andrade@ifro.edu.br|
+|Luis Felipe Lopes|Analista|luis.felipe.lopes1275@gmail.com|
+|Thiago Hens Suchi|Analista|thiagohenssuchi@gmail.com|
 |Yuri Ribeiro Zetoles|Analista|yurizetoles0123@gmail.com|
 
 
