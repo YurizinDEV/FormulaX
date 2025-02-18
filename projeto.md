@@ -39,11 +39,11 @@
 
 |XX| XX|
 |:---|:---|
-| NOME|Fórmula X |
-|Lider do Projeto| Matheus Lucas Batista|
-| PRINCIPAL OBJETIVO | XXX|
-| BENEFÍCIOS ESPERADOS |XXX|
-| INÍCIO E TÉRMINO PREVISTOS | XX/XX/XXXX - XX/XX/XXXX |
+| NOME|Fórmula X|
+| Lider do Projeto|Matheus Lucas Batista|
+| PRINCIPAL OBJETIVO |Prototipar uma plataforma de gerenciamento de cursos|
+| BENEFÍCIOS ESPERADOS |Redução de custos com licenças de cursos, Autonomia de criação de conteúdo, Democratização do ensino|
+| INÍCIO E TÉRMINO PREVISTOS |01/10/2024 - 11/03/2025|
 
 
 # INTRODUÇÃO
@@ -71,7 +71,7 @@ Métodos utilizados para a obtenção dos requisitos do sistema:
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
 |:---|:---|
-|**Usuário Padrão:**|Alunos e interessados em cursos online |
+|**Usuário Padrão:**|Alunos e interessados em cursos online|
 
 
 
