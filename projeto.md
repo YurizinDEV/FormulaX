@@ -133,6 +133,10 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 # Prototipagem
 Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de navegação, a apresentação de cursos e as funcionalidades de gerenciamento de conteúdo.  
 
+
+![Prototipagem Figma](https://github.com/YurizinDEV/FormulaX/blob/752af0460d4a95fc92624afef62fc172d57d6cd4/img/DiagramUseCase%20F%C3%B3rmulaX.png)
+
+
 [ [INÍCIO](#projeto-de-software) ]
 
 
