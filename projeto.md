@@ -138,6 +138,7 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 ```figma
 https://embed.figma.com/design/P4LvxMlaYkkMfNqySWYlZO/Material-UI-for-Figma-(and-MUI-X)-(Community)?node-id=6036-164056&embed-host=share
 ```
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/P4LvxMlaYkkMfNqySWYlZO/Material-UI-for-Figma-(and-MUI-X)-(Community)?node-id=6036-164056&embed-host=share" allowfullscreen></iframe>
 
 [ [INÍCIO](#projeto-de-software) ]
 
