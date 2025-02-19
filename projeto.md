@@ -166,7 +166,7 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 
 # Diagrama de Classes
 
-*(Neste ponto, incluir o diagrama de classes UML representando as entidades principais, tais como Aluno, Curso, Módulo, Conteúdo, etc.)*  
+![Diagrama de Classes](https://github.com/YurizinDEV/FormulaX/blob/752af0460d4a95fc92624afef62fc172d57d6cd4/img/DiagramClass%20F%C3%B3rmulaX.png)
 
 ---  
 
