@@ -134,7 +134,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de navegação, a apresentação de cursos e as funcionalidades de gerenciamento de conteúdo.  
 
 
-![Prototipagem Figma](<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/P4LvxMlaYkkMfNqySWYlZO/Material-UI-for-Figma-(and-MUI-X)-(Community)?node-id=6036-164056&embed-host=share" allowfullscreen></iframe>)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/P4LvxMlaYkkMfNqySWYlZO/Material-UI-for-Figma-(and-MUI-X)-(Community)?node-id=6036-164056&embed-host=share" allowfullscreen></iframe>
 
 
 [ [INÍCIO](#projeto-de-software) ]
