@@ -138,6 +138,7 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 
 # Diagrama de Casos de Uso
 
+![Diagrama de Casos de Uso](https://github.com/YurizinDEV/FormulaX/blob/752af0460d4a95fc92624afef62fc172d57d6cd4/img/DiagramUseCase%20F%C3%B3rmulaX.png)
 
 ## Descrição / Especificação dos Casos de Uso
 
