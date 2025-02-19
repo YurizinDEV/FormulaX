@@ -138,6 +138,8 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k4Rsy8GbKE0?si=Or0nQRcx5gX7npI1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k4Rsy8GbKE0?si=Or0nQRcx5gX7npI1" frameborder="0" allowfullscreen></iframe>
+
 [ [INÍCIO](#projeto-de-software) ]
 
 
