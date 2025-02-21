@@ -39,11 +39,11 @@
 
 |XX| XX|
 |:---|:---|
-| NOME|Fórmula X|
-| Lider do Projeto|Matheus Lucas Batista|
-| PRINCIPAL OBJETIVO |Prototipar uma plataforma de gerenciamento de cursos|
-| BENEFÍCIOS ESPERADOS |Redução de custos com licenças de cursos, Autonomia de criação de conteúdo, Democratização do ensino|
-| INÍCIO E TÉRMINO PREVISTOS |01/10/2024 - 11/03/2025|
+| NOME|Fórmula X |
+| Lider do Projeto|Matheus Lucas Batista |
+| PRINCIPAL OBJETIVO |Prototipar uma plataforma de gerenciamento de cursos |
+| BENEFÍCIOS ESPERADOS |Redução de custos com licenças de cursos, Autonomia de criação de conteúdo, Democratização do ensino |
+| INÍCIO E TÉRMINO PREVISTOS |01/10/2024 - 11/03/2025 |
 
 
 # INTRODUÇÃO
@@ -133,8 +133,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 # Prototipagem
 Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de navegação, a apresentação de cursos e as funcionalidades de gerenciamento de conteúdo.  
 
-Tela Inicial
-![Tela Inicial Protótipo Figma](https://github.com/YurizinDEV/FormulaX/blob/main/img/Frame%2014.png)
+![Protótipo Figma](https://github.com/YurizinDEV/FormulaX/blob/main/img/Frame%2014.png)
 
 [ [INÍCIO](#projeto-de-software) ]
 
