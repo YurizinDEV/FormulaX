@@ -2,6 +2,16 @@
 # PROJETO DE SOFTWARE
 
 ## *Stakeholders*
+|STAKEHOLDER|INTERESSE NO SISTEMA|
+|:---|:---|
+|Instituição de Ensino|Assegurar o sucesso das competições, otimizando o planejamento, promovendo uma boa imagem do evento e fortalecendo a cultura esportiva|
+|Patrocinadores|Aumentar a visibilidade das marcas associadas ao evento e apoiar a organização eficiente|
+|Professores/Coordenadores|Alinhar as competições ao calendário acadêmico e as expectativas educacionais|
+|Professores de Educação Física|Facilitar a organização e acompanhamento das competições esportivas, garantindo a participação ativa dos alunos e o cumprimento das metas esportivas|
+|Atletas/Participantes|Acompanhar o andamento das competições, garantindo uma participação organizada e transparente nas disputas|
+|Comunidade Estudantil|Promover a integração, lazer e engajamento estudantil através de eventos esportivos bem organizados, gerando impacto positivo|
+
+
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
 |Matheus Lucas Batista|Gerente de projeto/Analista|matheusifro2020@gmail.com|
@@ -37,13 +47,13 @@
 
 # RESUMO DO PROJETO
 
-|XX| XX|
+|ITEM| DETALHES|
 |:---|:---|
 | NOME|Fórmula X |
 | Lider do Projeto|Matheus Lucas Batista |
-| PRINCIPAL OBJETIVO |Prototipar uma plataforma de gerenciamento de cursos |
-| BENEFÍCIOS ESPERADOS |Redução de custos com licenças de cursos, Autonomia de criação de conteúdo, Democratização do ensino |
-| INÍCIO E TÉRMINO PREVISTOS |01/10/2024 - 11/03/2025 |
+| Principal Objetivo |Prototipar uma plataforma de gerenciamento de cursos |
+| Benefícios Esperados |Redução de custos com licenças de cursos, Autonomia de criação de conteúdo, Democratização do ensino |
+| Início e Término Previstos |01/10/2024 - 11/03/2025 |
 
 
 # INTRODUÇÃO
@@ -73,6 +83,13 @@ Métodos utilizados para a obtenção dos requisitos do sistema:
 |:---|:---|
 |**Usuário Padrão:**|Alunos e interessados em cursos online|
 
+|USUÁRIO|DESCRIÇÃO|
+|:---|:---|
+|Organizador|Responsáveis pela gestão e administração das competições|
+|Instituição de Ensino|Entidades responsáveis pela organização e regulamentação dos eventos esportivos|
+|Professores|Facilitadores que podem atuar como supervisores ou avaliadores durante as competições|
+|Jogadores|Participantes ativos das competições esportivas|
+|Público|Torcedores e espectadores dos eventos|
 
 
 ### Sistemas similares:
@@ -87,6 +104,8 @@ Os clientes (alunos e professores) devem utilizar um computador com a seguinte c
 * 2Gb de memória RAM;
 * 5Gb de armazenamento em disco;
 * Para uso do sistema é preciso ter instalado o Java para Web browsers.
+
+Os usuários poderão acessar a plataforma através de computadores ou dispositivos móveis com acesso à internet para acompanhar as competições e resultados. Como se trata de uma aplicação web, não há uma configuração mínima específica para visualização. No entanto, para os organizadores e responsáveis pela administração do sistema, é recomendado o uso de um computador para a criação e gestão das competições, já que essas atividades exigem maior interação com as funcionalidades de gerenciamento.
 
 ---  
 
@@ -114,9 +133,13 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME                    | DESCRIÇÃO                                                                                                                                          |  
 |:-------------|:------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|  
-| **RF-001**   | Gerenciar Cursos        | Permite ao administrador criar, atualizar e remover cursos, bem como incluir módulos e conteúdos extras para disponibilizar aos alunos.             |  
-| **RF-002**   | Inscrição em Cursos     | Possibilita que os alunos se inscrevam nos cursos disponíveis, visualizem o material e acompanhem seu progresso dentro da plataforma.             |  
-
+| **RF-001**   | Manter Cursos        | Permite o administrador criar, atualizar e remover cursos, bem como incluir conteúdos extras para disponibilizar aos alunos.             |
+| **RF-002**   | Incorporar Vídeos     | Permite o administrador incorporar vídeos do Youtube.            |
+| **RF-003**   | Gerenciar Conteúdo Extra | O administrador pode gerenciar os conteúdos extras dos cursos, como apostilas |
+| **RF-004**   | Anexar PDF´s | O administrador pode anexar PDF´s para os cursos. |
+| **RF-005**   | Manter Usuários |  Permite o administrador criar, atualizar, remover e tornar administrador os usuários. |
+| **RF-006**   | Acompanhar Progresso     | O administrador pode acompanhar o progresso dos alunos em cada curso. |
+| **RF-007**   | Acompanhar Progresso Individual       | Os usuários pode acompanhar o progresso em cada curso. |
 
 
 ## Requisitos Não Funcionais
@@ -124,9 +147,10 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME                           | DESCRIÇÃO                                                                                                |  
 |:-------------|:-------------------------------|:----------------------------------------------------------------------------------------------------------|  
-| **RNF-001**  | Desempenho                      | O sistema deve suportar simultaneamente pelo menos 500 usuários ativos sem degradação perceptível de desempenho. |  
-| **RNF-002**  | Usabilidade                     | A interface deve ser intuitiva e responsiva, garantindo acessibilidade em diferentes dispositivos e tamanhos de tela. |  
-
+| **RNF-001**  | Desempenho e Escalabilidade                      | O sistema deve suportar simultaneamente pelo menos 100 usuários ativos sem degradação perceptível de desempenho, garantindo um tempo de resposta de no máximo 1 segundo |  
+| **RNF-002**  | Usabilidade                     | A interface deve ser intuitiva e claras tanto para administradores quanto para usuários. |  
+| **RNF-003**  |Acessibilidade Multiplataforma             | O sistema será acessível via navegador, com design responsivo para dispositivos móveis, permitindo aos usuários acessarem os cursos de qualquer lugar. |
+| **RNF-004**  | Formato Markdown                  | O sistema possuirá campos de textos em formato Markdown para que seja realizada a formatação da maneira que desejar nos cmapos de texto. |
 ---  
 
 
@@ -193,7 +217,81 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 | 5. O sistema registra o progresso de leitura ou visualização. |  
 | **Fluxos Alternativos / Exceções:** |  
 | **A1: Erro de conexão ou servidor indisponível** |  
-| 1. O aluno recebe uma mensagem de erro e aguarda a restauração do serviço. |  
+| 1. O aluno recebe uma mensagem de erro e aguarda a restauração do serviço. | 
+
+
+### UC-01 - Login  
+
+| **UC-01 - Login**       |  
+|:------------------------|  
+| **Descrição/Objetivo:** Permitir que o usuário entre no sistema utilizando credenciais. |  
+| **Atores:** Usuário  |  
+| **Pré-condições:** O usuário deve ter um perfil cadastrado no sistema. |  
+| **Pós-condições:** O usuário é redirecionado para o dashboard. |  
+| **Fluxo Principal / Básico:**       |  
+| 1. O usuário acessa a tela de login. |  
+| 2. Insere seu nome de usuário e senha. |  
+| 3. O sistema autentica as credenciais e redireciona para o dashboard do usuário. |  
+| **Fluxos Alternativos / Exceções:** |  
+| **A1: Credenciais inválidas** |  
+| 1. O sistema exibe uma mensagem de erro informando que as credenciais estão incorretas. |  
+
+### UC-02 - Cadastrar  
+
+| **UC-02 - Cadastrar**       |  
+|:-----------------------------|  
+| **Descrição/Objetivo:** Permitir que novos usuários se registrem no sistema. |  
+| **Atores:** Usuário  |  
+| **Pré-condições:** O usuário não deve estar autenticado. |  
+| **Pós-condições:** Um novo perfil é criado no sistema. |  
+| **Fluxo Principal / Básico:**       |  
+| 1. O usuário acessa a tela de cadastro. |  
+| 2. Preenche os campos obrigatórios (nome, e-mail, senha). |  
+| 3. O sistema valida as informações e cria um novo perfil. |  
+| **Fluxos Alternativos / Exceções:** |  
+| **A1: E-mail já cadastrado** |  
+| 1. O sistema informa que o e-mail já está em uso e solicita outro. |  
+
+### UC-03 - Acompanhar Progresso  
+
+| **UC-03 - Acompanhar Progresso**       |  
+|:----------------------------------------|  
+| **Descrição/Objetivo:** Monitorar seu progresso acadêmico. |  
+| **Atores:** Usuário  |  
+| **Pré-condições:** O usuário deve estar autenticado. |  
+| **Pós-condições:** O usuário visualiza seu progresso atualizado. |  
+| **Fluxo Principal / Básico:**       |  
+| 1. O usuário acessa a seção de acompanhamento de progresso. |  
+| 2. Visualiza os cursos, tarefas e atividades concluídas. |  
+| 3. O sistema exibe gráficos e estatísticas relacionadas ao progresso acadêmico. |  
+
+### UC-04 - Gerenciar Usuários  
+
+| **UC-04 - Gerenciar Usuários**       |  
+|:-------------------------------------|  
+| **Descrição/Objetivo:** Permitir ao administrador gerenciar os usuários do sistema. |  
+| **Atores:** Admin  |  
+| **Pré-condições:** O administrador deve estar autenticado. |  
+| **Pós-condições:** O sistema atualiza a lista de usuários. |  
+| **Fluxo Principal / Básico:**       |  
+| 1. O administrador acessa a seção de gerenciamento de usuários. |  
+| 2. Adiciona, edita ou exclui usuários. |  
+| 3. Visualiza e atribui permissões para cada usuário. |  
+
+### UC-05 - Gerenciar Cursos  
+
+| **UC-05 - Gerenciar Cursos**       |  
+|:-----------------------------------|  
+| **Descrição/Objetivo:** Permitir ao administrador gerenciar cursos, vídeos, tópicos e PDFs. |  
+| **Atores:** Admin  |  
+| **Pré-condições:** O administrador deve estar autenticado. |  
+| **Pós-condições:** O sistema atualiza as informações dos cursos. |  
+| **Fluxo Principal / Básico:**       |  
+| 1. O administrador acessa a seção de gerenciamento de cursos. |  
+| 2. Adiciona novos cursos, vídeos, tópicos ou PDFs. |  
+| 3. Configura as permissões e informações dos cursos. |  
+
+
 
 [ [INÍCIO](#projeto-de-software) ]  
 
