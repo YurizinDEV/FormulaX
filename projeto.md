@@ -1,5 +1,7 @@
 
-# PROJETO DE SOFTWARE
+# PROJETO DE SOFTWARE - _Fórmula X_
+
+![Fórmula X](https://github.com/YurizinDEV/FormulaX/blob/main/img/Capa.png)
 
 ## *Stakeholders*
 |STAKEHOLDER|INTERESSE NO SISTEMA|
