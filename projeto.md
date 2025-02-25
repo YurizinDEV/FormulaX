@@ -133,7 +133,40 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 # Prototipagem
 Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de navegação, a apresentação de cursos e as funcionalidades de gerenciamento de conteúdo.  
 
-![Protótipo Figma](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/P%C3%A1gina%20inicial-1.jpg)
+![Tela Inicial Sem Login](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/P%C3%A1gina%20inicial-1.jpg)
+
+![Tela Inicial Logado](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/P%C3%A1gina%20inicial.jpg)
+
+![Tela Meus Cursos](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Cursos%20em%20Andamento.jpg)
+
+![Tela Curso em Andamento](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Curso%20em%20Andamento.jpg)
+
+![Tela Curso Aula 1](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Conjuntos%20num%C3%A9ricos-%20%20Curso.jpg)
+
+![Tela Curso Aula 1 Com Desc](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Conjuntos%20num%C3%A9ricos-%20%20Curso-1.jpg)
+
+![Tela Curso Aula 2](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Conjuntos%20num%C3%A9ricos-%20%20Curso-2.jpg)
+
+![Tela Curso Aula 3](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Conjuntos%20num%C3%A9ricos-%20%20Curso-3.jpg)
+
+![Tela Curso Aula 3 Concluída](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Conjuntos%20num%C3%A9ricos-%20%20Curso-4.jpg)
+
+![Tela Área do Usuário](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/%C3%81rea%20do%20usu%C3%A1rio.jpg)
+
+![Tela Gerenciamento de Usuários - Admin](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Acompanhar%20Aluno%20-%20Adimin.jpg)
+
+![Tela Progresso de Usuários - Admin](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Progresso%20Aluno%20-%20Adimin.jpg)
+
+![Tela Gerenciamento de Cursos - Admin](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Gerenciamento%20de%20Cursos%20-%20Admin.jpg)
+
+![Tela Criar Curso - Admin](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Criar%20Curso%20-%20Admin.jpg)
+
+![Tela Criar Curso Preenchida - Admin](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Gerenciando%20Curso%20-%20Admin.jpg)
+
+![Tela Criar Aula - Admin](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Criar%20Curso%20-%20Admin-1.jpg)
+
+![Tela Criar Aula Preenchida - Admin](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Adicionar%20Aula%20-%20Admin.jpg)
+
 
 [ [INÍCIO](#projeto-de-software) ]
 
