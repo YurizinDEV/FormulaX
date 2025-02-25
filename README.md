@@ -1,4 +1,8 @@
-# Fórmula X  
+# Plataforma de Cursos - MOOC 
+**Fórmula X**  
+![Fórmula X](https://github.com/YurizinDEV/FormulaX/blob/main/img/Capa.png)
+
+
 
 **Projeto de Software da Fábrica**  
 
