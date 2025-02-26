@@ -6,21 +6,9 @@
 ## *Stakeholders*
 |STAKEHOLDER|INTERESSE NO SISTEMA|
 |:---|:---|
-|Instituição de Ensino|Assegurar o sucesso das competições, otimizando o planejamento, promovendo uma boa imagem do evento e fortalecendo a cultura esportiva|
-|Patrocinadores|Aumentar a visibilidade das marcas associadas ao evento e apoiar a organização eficiente|
-|Professores/Coordenadores|Alinhar as competições ao calendário acadêmico e as expectativas educacionais|
-|Professores de Educação Física|Facilitar a organização e acompanhamento das competições esportivas, garantindo a participação ativa dos alunos e o cumprimento das metas esportivas|
-|Atletas/Participantes|Acompanhar o andamento das competições, garantindo uma participação organizada e transparente nas disputas|
-|Comunidade Estudantil|Promover a integração, lazer e engajamento estudantil através de eventos esportivos bem organizados, gerando impacto positivo|
-
-
-|NOME|CARGO|E-MAIL|
-|:---|:---|:---|
-|Matheus Lucas Batista|Gerente de projeto/Analista|matheusifro2020@gmail.com|
-|Marco Antonio Augusto de Andrade|Cliente/Professor|marco.andrade@ifro.edu.br|
-|Luis Felipe Lopes|Analista|luis.felipe.lopes1275@gmail.com|
-|Thiago Hens Suchi|Analista|thiagohenssuchi@gmail.com|
-|Yuri Ribeiro Zetoles|Analista|yurizetoles0123@gmail.com|
+|Instituição de Ensino|Assegurar um ensino de qualidade, visando fornecer uma plataforma gratuita de cursos para serem usadas por alunos e professores|
+|Professores|Alinhar os cursos aos conteúdo acadêmicos|
+|Alunos|Obter acesso a conteúdos gratuitos, garantindo conhecimentos extras além do conteúdo ministrado em sala de aula|
 
 
 # Sumário
@@ -68,7 +56,6 @@ O objetivo deste documento é descrever a concepção do sistema, seus requisito
 
 ## CONCEPÇÃO DO SISTEMA
 
-Métodos utilizados para a obtenção dos requisitos do sistema:
 Métodos utilizados para a obtenção dos requisitos do sistema:  
   * Brainstorming e discussões entre os stakeholders;  
   * Análise de necessidades e expectativas de alunos;  
@@ -79,19 +66,11 @@ Métodos utilizados para a obtenção dos requisitos do sistema:
 
 # DESCRIÇÃO GERAL
 
-
-## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
 |:---|:---|
-|**Usuário Padrão:**|Alunos e interessados em cursos online|
-
-|USUÁRIO|DESCRIÇÃO|
-|:---|:---|
-|Organizador|Responsáveis pela gestão e administração das competições|
-|Instituição de Ensino|Entidades responsáveis pela organização e regulamentação dos eventos esportivos|
-|Professores|Facilitadores que podem atuar como supervisores ou avaliadores durante as competições|
-|Jogadores|Participantes ativos das competições esportivas|
-|Público|Torcedores e espectadores dos eventos|
+|Administrador|Responsável pela gestão e administração do sistema|
+|Professores|Responsável pela administração e produção dos conteúdos mantidos na plataforma|
+|Alunos|Consumidores dos conteúdos presentes na plataforma|
 
 
 ### Sistemas similares:
@@ -318,6 +297,22 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 
 ---  
 
+# Equipe de Desenvolvimento e Cliente
+
+# Desenvolvedores
+
+|NOME|CARGO|E-MAIL|
+|:---|:---|:---|
+|Matheus Lucas Batista|Gerente de projeto/Analista|matheusifro2020@gmail.com|
+|Luis Felipe Lopes|Analista|luis.felipe.lopes1275@gmail.com|
+|Thiago Hens Suchi|Analista|thiagohenssuchi@gmail.com|
+|Yuri Ribeiro Zetoles|Analista|yurizetoles0123@gmail.com|
+
+# Cliente
+
+|NOME|
+|:---|
+|Marco Antônio Augusto de Andrade|
 
 # REFERÊNCIAS
 
