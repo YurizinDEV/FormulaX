@@ -3,7 +3,7 @@
 
 ![Fórmula X](https://github.com/YurizinDEV/FormulaX/blob/main/img/Capa.png)
 
-## *Stakeholders*
+## *STAKEHOLDERS*
 |STAKEHOLDER|INTERESSE NO SISTEMA|
 |:---|:---|
 |Instituição de Ensino|Assegurar um ensino de qualidade, visando fornecer uma plataforma gratuita de cursos para serem usadas por alunos e professores|
@@ -11,7 +11,7 @@
 |Alunos|Obter acesso a conteúdos gratuitos, garantindo conhecimentos extras além do conteúdo ministrado em sala de aula|
 
 
-# Sumário
+# SUMÁRIO
 
 * [RESUMO DO PROJETO](#resumo-do-projeto)
 * [INTRODUÇÃO](#introdução)
@@ -73,11 +73,11 @@ Métodos utilizados para a obtenção dos requisitos do sistema:
 |Alunos|Consumidores dos conteúdos presentes na plataforma|
 
 
-### Sistemas similares:
+### SISTEMAS SIMILARES:
 O projeto se assemelha a plataformas como Coursera e Udemy, cujos objetivos incluem a hospedagem, organização e disponibilização de cursos de diversos temas. No entanto, a “Fórmula X” busca oferecer uma experiência mais direcionada a conteúdos complementares de acordo com as necessidades de cada aluno na instituição.  
 
 
-## Suposições e dependências
+## SUPOSIÇÕES E DEPENDÊNCIAS
 
 Os clientes (alunos e professores) devem utilizar um computador com a seguinte configuração mínima:  
 
@@ -96,7 +96,7 @@ Após identificar a demanda por material de apoio em formato virtual, analisou-s
 
 --- 
 
-# Metodologia Adotada no Desenvolvimento
+# METODOLOGIA ADOTADA NO DESENVOLVIMENTO
 Foi adotado um modelo de desenvolvimento baseado em Kanban, contemplando análise de Throughput, Lead Time e Cycle Time para monitorar o progresso do projeto. Também foram utilizados protótipos no Figma para validação prévia da interface, além de revisões e ajustes contínuos com a equipe.  
 
 
@@ -104,11 +104,11 @@ Foi adotado um modelo de desenvolvimento baseado em Kanban, contemplando anális
 
 ---  
 
-# Requisitos do Software
+# REQUISITOS DO SOFTWARE
 
 A especificação dos requisitos deste projeto segue as recomendações da norma IEEE Std-830-1998, considerando as boas práticas para definição de requisitos.  
 
-## Requisitos Funcionais
+## REQUISITOS FUNCIONAIS
 
 A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com as colunas: identificador, nome, descrição e prioridade:
 
@@ -123,7 +123,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 | **RF-007**   | Acompanhar Progresso Individual       | Os usuários pode acompanhar o progresso em cada curso. |
 
 
-## Requisitos Não Funcionais
+## REQUISITOS NÃO FUNCIONAIS
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
 
 | IDENTIFICADOR | NOME                           | DESCRIÇÃO                                                                                                |  
@@ -135,7 +135,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ---  
 
 
-# Prototipagem
+# PROTOTIPAGEM
 Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de navegação, a apresentação de cursos e as funcionalidades de gerenciamento de conteúdo.  
 
 ![Tela Inicial Sem Login](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/P%C3%A1gina%20inicial-1.jpg)
@@ -176,11 +176,11 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 [ [INÍCIO](#projeto-de-software) ]
 
 
-# Diagrama de Casos de Uso
+# DIAGRAMA DE CASO DE USO
 
 ![Diagrama de Casos de Uso](https://github.com/YurizinDEV/FormulaX/blob/752af0460d4a95fc92624afef62fc172d57d6cd4/img/DiagramUseCase%20F%C3%B3rmulaX.png)
 
-## Descrição / Especificação dos Casos de Uso
+## DESCRIÇÃO / ESPECIFICAÇÃO DOS CASOS DE USO
 
 ### UC-01 - Acessar Conteúdos  
 
@@ -279,27 +279,27 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 ---  
 
 
-# Diagrama de Classes
+# DIAGRAMA DE CLASSES
 
 ![Diagrama de Classes](https://github.com/YurizinDEV/FormulaX/blob/752af0460d4a95fc92624afef62fc172d57d6cd4/img/DiagramClass%20F%C3%B3rmulaX.png)
 
 ---  
 
 
-# Diagrama de Sequências
+# DIAGRAMAS DE SEQUÊNCIA
 
 *(Apresentar o diagrama de sequência ilustrando a interação entre o aluno e o sistema para acessar conteúdos, por exemplo.)*  
 
 --- 
 
-# Diagrama de Atividades
+# DIAGRAMAS DE ATIVIDADE
 *(Expor o diagrama de atividades descrevendo o processo de inscrição em cursos ou outro fluxo relevante.)*  
 
 ---  
 
-# Equipe de Desenvolvimento e Cliente
+# EQUIPE DE DESENVOLVIMENTO E CLIENTE
 
-# Desenvolvedores
+# DESENVOLVEDORES
 
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
@@ -308,7 +308,7 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 |Thiago Hens Suchi|Analista|thiagohenssuchi@gmail.com|
 |Yuri Ribeiro Zetoles|Analista|yurizetoles0123@gmail.com|
 
-# Cliente
+# CLIENTE
 
 |NOME|
 |:---|
