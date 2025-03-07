@@ -293,7 +293,8 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 --- 
 
 # DIAGRAMAS DE ATIVIDADE
-*(Expor o diagrama de atividades descrevendo o processo de inscrição em cursos ou outro fluxo relevante.)*  
+
+![Diagrama de Atividade](img/DiagramActivityAssistirCurso.png)
 
 ---  
 
