@@ -240,7 +240,7 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 ![Tela Criar Aula - Admin](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Criar%20Curso%20-%20Admin-1.jpg)
 
 ![Tela Criar Aula Preenchida - Admin](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Adicionar%20Aula%20-%20Admin.jpg)
-
+a
 -->
 
 
