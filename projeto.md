@@ -131,6 +131,42 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 # PROTOTIPAGEM
 Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de navegação, a apresentação de cursos e as funcionalidades de gerenciamento de conteúdo.  
 
+![Tela Inicial Sem Login](img/figma/Páginainicial-1.jpg)
+
+![Tela Inicial Logado](img/figma/Páginainicial.jpg)
+
+![Tela Meus Cursos](img/figma/CursosemAndamento.jpg)  
+
+![Tela Curso em Andamento](img/figma/CursoemAndamento.jpg)  
+
+![Tela Curso Aula 1](img/figma/Conjuntosnuméricos-Curso.jpg)  
+
+![Tela Curso Aula 1 Com Desc](img/figma/Conjuntosnuméricos-Curso-1.jpg)  
+
+![Tela Curso Aula 2](img/figma/Conjuntosnuméricos-Curso-2.jpg)  
+
+![Tela Curso Aula 3](img/figma/Conjuntosnuméricos-Curso-3.jpg)  
+
+![Tela Curso Aula 3 Concluída](img/figma/Conjuntosnuméricos-Curso-4.jpg)  
+
+![Tela Área do Usuário](img/figma/Áreadousuário.jpg)  
+
+![Tela Gerenciamento de Usuários - Admin](img/figma/AcompanharAluno-Admin.jpg)  
+
+![Tela Progresso de Usuários - Admin](img/figma/ProgressoAluno-Admin.jpg)  
+
+![Tela Gerenciamento de Cursos - Admin](img/figma/GerenciamentodeCursos-Admin.jpg)  
+
+![Tela Criar Curso - Admin](img/figma/CriarCurso-Admin.jpg)  
+
+![Tela Criar Curso Preenchida - Admin](img/figma/GerenciandoCurso-Admin.jpg)  
+
+![Tela Criar Aula - Admin](img/figma/CriarCurso-Admin-1.jpg)  
+
+![Tela Criar Aula Preenchida - Admin](img/figma/AdicionarAula-Admin.jpg)  
+
+<!-- 
+
 ![Tela Inicial Sem Login](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/P%C3%A1gina%20inicial-1.jpg)
 
 ![Tela Inicial Logado](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/P%C3%A1gina%20inicial.jpg)
@@ -164,6 +200,8 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 ![Tela Criar Aula - Admin](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Criar%20Curso%20-%20Admin-1.jpg)
 
 ![Tela Criar Aula Preenchida - Admin](https://github.com/YurizinDEV/FormulaX/blob/main/img/figma/Adicionar%20Aula%20-%20Admin.jpg)
+
+-->
 
 
 [ [INÍCIO](#projeto-de-software) ]
