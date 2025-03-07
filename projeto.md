@@ -79,14 +79,7 @@ O projeto se assemelha a plataformas como Coursera e Udemy, cujos objetivos incl
 
 ## SUPOSIÇÕES E DEPENDÊNCIAS
 
-Os clientes (alunos e professores) devem utilizar um computador com a seguinte configuração mínima:  
-
-* Processador Dual Core 2GHz ou superior;
-* 2Gb de memória RAM;
-* 5Gb de armazenamento em disco;
-* Para uso do sistema é preciso ter instalado o Java para Web browsers.
-
-Os usuários poderão acessar a plataforma através de computadores ou dispositivos móveis com acesso à internet para acompanhar as competições e resultados. Como se trata de uma aplicação web, não há uma configuração mínima específica para visualização. No entanto, para os organizadores e responsáveis pela administração do sistema, é recomendado o uso de um computador para a criação e gestão das competições, já que essas atividades exigem maior interação com as funcionalidades de gerenciamento.
+Os usuários poderão acessar a plataforma através de computadores ou dispositivos móveis com acesso à internet para usufruir dos conteúdos disponibilizados. Como se trata de uma aplicação web, não há uma configuração mínima específica para visualização. No entanto, para os responsáveis pela administração do sistema, é recomendado o uso de um computador para a criação e gestão dos cursos, já que essas atividades exigem maior interação com as funcionalidades de gerenciamento.
 
 ---  
 
