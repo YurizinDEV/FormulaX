@@ -145,11 +145,11 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 
 ![Tela Curso Aula 1](img/figma/Conjuntosnuméricos-Curso-1.jpg)  
 
-![Tela Curso Aula 2](img/figma/Conjuntosnuméricos-Curso-2.jpg)  
-
-![Tela Curso](img/figma/Conjuntosnuméricos-Curso-4.jpg)  
+![Tela Curso Aula 2](img/figma/Conjuntosnuméricos-Curso-2.jpg)    
 
 ![Tela Curso Aula 3](img/figma/Conjuntosnuméricos-Curso-3.jpg)  
+
+![Tela Curso](img/figma/Conjuntosnuméricos-Curso-4.jpg)
 
 ![Tela Área do Usuário](img/figma/Áreadousuário.jpg)  
 
