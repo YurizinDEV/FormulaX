@@ -131,6 +131,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 # PROTOTIPAGEM
 Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de navegação, a apresentação de cursos e as funcionalidades de gerenciamento de conteúdo.  
 
+## Fluxo Usuário
 ![Tela Inicial Sem Login](img/figma/Páginainicial-1.jpg)  
 
 ![Tela Popup](img/figma/popup.jpg)  
@@ -151,20 +152,22 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 
 ![Tela Curso](img/figma/Conjuntosnuméricos-Curso-4.jpg)
 
-![Tela Área do Usuário](img/figma/Áreadousuário.jpg)  
+![Tela Área do Usuário](img/figma/Áreadousuário.jpg)
 
+## Fluxo Administrador
 ![Tela Gerenciamento de Usuários - Admin](img/figma/AcompanharAluno-Admin.jpg)  
 
 ![Tela Progresso de Usuários - Admin](img/figma/ProgressoAluno-Admin.jpg)  
 
-![Tela Gerenciamento de Cursos - Admin](img/figma/GerenciamentodeCursos-Admin.jpg)  
+![Tela Gerenciamento de Cursos - Admin](img/figma/GerenciamentodeCursos-Admin.jpg) 
 
-![Tela Criar Curso - Admin](img/figma/CriarCurso-Admin-1.jpg)  
+![Tela Criar Curso](img/figma/CriarCurso-Admin.jpg)
 
-![Tela Criar Curso Preenchida - Admin](img/figma/CriarCurso-Admin-3.jpg)  
+![Tela Criar Curso Preenchida - Admin](img/figma/CriarCurso-Admin-3.jpg)
 
 ![Tela Criar Aula - Admin](img/figma/CriarCurso-Admin-2.jpg)  
 
+![Tela Criar Aula Preenchida - Admin](img/figma/CriarCurso-Admin-1.jpg) 
 
 <!-- 
 
