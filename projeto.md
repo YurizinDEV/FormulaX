@@ -182,25 +182,6 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 
 ## DESCRIÇÃO / ESPECIFICAÇÃO DOS CASOS DE USO
 
-### UC-01 - Acessar Conteúdos  
-
-| **UC-01 - Acessar Conteúdos**       |  
-|:------------------------------------|  
-| **Descrição/Objetivo:** Permitir que o aluno visualize e estude os conteúdos dos cursos disponíveis na plataforma. |  
-| **Atores:** Aluno (Usuário Padrão)  |  
-| **Pré-condições:** O aluno deve estar autenticado na plataforma e inscrito em pelo menos um curso. |  
-| **Pós-condições:** O sistema deve registrar o progresso do aluno no curso. |  
-| **Fluxo Principal / Básico:**       |  
-| 1. O aluno acessa o sistema e efetua login. |  
-| 2. O aluno seleciona o curso desejado. |  
-| 3. O sistema exibe os módulos e conteúdos do curso. |  
-| 4. O aluno pode abrir qualquer unidade, assistir vídeos e ler materiais. |  
-| 5. O sistema registra o progresso de leitura ou visualização. |  
-| **Fluxos Alternativos / Exceções:** |  
-| **A1: Erro de conexão ou servidor indisponível** |  
-| 1. O aluno recebe uma mensagem de erro e aguarda a restauração do serviço. | 
-
-
 ### UC-01 - Login  
 
 | **UC-01 - Login**       |  
@@ -272,6 +253,23 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 | 2. Adiciona novos cursos, vídeos, tópicos ou PDFs. |  
 | 3. Configura as permissões e informações dos cursos. |  
 
+### UC-06 - Acessar Conteúdos  
+
+| **UC-06 - Acessar Conteúdos**       |  
+|:------------------------------------|  
+| **Descrição/Objetivo:** Permitir que o aluno visualize e estude os conteúdos dos cursos disponíveis na plataforma. |  
+| **Atores:** Aluno (Usuário Padrão)  |  
+| **Pré-condições:** O aluno deve estar autenticado na plataforma e inscrito em pelo menos um curso. |  
+| **Pós-condições:** O sistema deve registrar o progresso do aluno no curso. |  
+| **Fluxo Principal / Básico:**       |  
+| 1. O aluno acessa o sistema e efetua login. |  
+| 2. O aluno seleciona o curso desejado. |  
+| 3. O sistema exibe os módulos e conteúdos do curso. |  
+| 4. O aluno pode abrir qualquer unidade, assistir vídeos e ler materiais. |  
+| 5. O sistema registra o progresso de leitura ou visualização. |  
+| **Fluxos Alternativos / Exceções:** |  
+| **A1: Erro de conexão ou servidor indisponível** |  
+| 1. O aluno recebe uma mensagem de erro e aguarda a restauração do serviço. | 
 
 
 [ [INÍCIO](#projeto-de-software) ]  
