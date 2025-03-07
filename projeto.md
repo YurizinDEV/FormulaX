@@ -296,6 +296,10 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 
 ![Diagrama de Atividade](img/DiagramActivityAssistirCurso.png)
 
+![Diagrama de Atividade](img/DiagramActivityGerenciamentoCurso.png)
+
+![Diagrama de Atividade](img/DiagramActivityGerenciamentoUsuarios.png)
+
 ---  
 
 # EQUIPE DE DESENVOLVIMENTO E CLIENTE
