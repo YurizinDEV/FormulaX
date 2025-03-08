@@ -107,7 +107,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |:-------------|:------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|  
 | **RF-001**   | Manter Cursos        | Permite o administrador criar, atualizar e remover cursos, bem como incluir conteúdos extras para disponibilizar aos alunos.             |
 | **RF-002**   | Incorporar Vídeos     | Permite o administrador incorporar vídeos do Youtube.            |
-| **RF-003**   | Gerenciar Conteúdo Extra | O administrador pode gerenciar os conteúdos extras dos cursos, como PDF´s. |
+| **RF-003**   | Gerenciar Conteúdo Extra | O administrador pode gerenciar os conteúdos extras dos cursos, como PDFs. |
 | **RF-004**   | Manter Usuários |  Permite o administrador criar e remover e tornar administrador os usuários. |
 | **RF-005**   | Acompanhar Progresso     | O administrador pode acompanhar o progresso dos alunos em cada curso. |
 | **RF-006**   | Acompanhar o Próprio Progresso       | Os usuários podem acompanhar o próprio progresso em cada curso. |
