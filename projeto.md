@@ -73,7 +73,7 @@ Métodos utilizados para a obtenção dos requisitos do sistema:
 
 
 ### SISTEMAS SIMILARES:
-O projeto se assemelha a plataformas como Coursera(https://www.google.com) e Udemy(https://www.udemy.com), cujos objetivos incluem a hospedagem, organização e disponibilização de cursos de diversos temas. No entanto, a “Fórmula X” busca oferecer uma experiência mais direcionada a conteúdos complementares de acordo com as necessidades de cada aluno na instituição.
+O projeto se assemelha a plataformas como Coursera(https://www.coursera.org) e Udemy(https://www.udemy.com), cujos objetivos incluem a hospedagem, organização e disponibilização de cursos de diversos temas. No entanto, a “Fórmula X” busca oferecer uma experiência mais direcionada a conteúdos complementares de acordo com as necessidades de cada aluno na instituição.
 
 ## SUPOSIÇÕES E DEPENDÊNCIAS
 
