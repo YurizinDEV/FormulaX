@@ -39,11 +39,11 @@
 
 |ITEM| DETALHES|
 |:---|:---|
-| NOME|Fórmula X |
-| Lider do Projeto|Matheus Lucas Batista |
-| Principal Objetivo |Prototipar uma plataforma de gerenciamento de cursos |
-| Benefícios Esperados |Redução de custos com licenças de cursos, Autonomia de criação de conteúdo, Democratização do ensino |
-| Início e Término Previstos |01/10/2024 - 11/03/2025 |
+| NOME|Fórmula X. |
+| Lider do Projeto|Matheus Lucas Batista. |
+| Principal Objetivo |Prototipar uma plataforma de gerenciamento de cursos. |
+| Benefícios Esperados |Redução de custos com licenças de cursos, Autonomia de criação de conteúdo, Democratização do ensino. |
+| Início e Término Previstos |01/10/2024 - 11/03/2025. |
 
 
 # INTRODUÇÃO
@@ -68,14 +68,12 @@ Métodos utilizados para a obtenção dos requisitos do sistema:
 
 |USUÁRIO|DESCRIÇÃO|
 |:---|:---|
-|Administrador|Responsável pela gestão e administração do sistema|
-|Professores|Responsável pela administração e produção dos conteúdos mantidos na plataforma|
-|Alunos|Consumidores dos conteúdos presentes na plataforma|
+|Administrador|Responsável pela gestão do sistema e administração e produção dos conteúdos mantidos na plataforma.|
+|Alunos|Consumidores dos conteúdos presentes na plataforma.|
 
 
 ### SISTEMAS SIMILARES:
-O projeto se assemelha a plataformas como Coursera e Udemy, cujos objetivos incluem a hospedagem, organização e disponibilização de cursos de diversos temas. No entanto, a “Fórmula X” busca oferecer uma experiência mais direcionada a conteúdos complementares de acordo com as necessidades de cada aluno na instituição.  
-
+O projeto se assemelha a plataformas como Coursera e Udemy(https://www.udemy.com), cujos objetivos incluem a hospedagem, organização e disponibilização de cursos de diversos temas. No entanto, a “Fórmula X” busca oferecer uma experiência mais direcionada a conteúdos complementares de acordo com as necessidades de cada aluno na instituição.
 
 ## SUPOSIÇÕES E DEPENDÊNCIAS
 
@@ -103,28 +101,27 @@ A especificação dos requisitos deste projeto segue as recomendações da norma
 
 ## REQUISITOS FUNCIONAIS
 
-A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com as colunas: identificador, nome, descrição e prioridade:
+A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com as colunas: identificador, nome e descrição:
 
 | IDENTIFICADOR | NOME                    | DESCRIÇÃO                                                                                                                                          |  
 |:-------------|:------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|  
 | **RF-001**   | Manter Cursos        | Permite o administrador criar, atualizar e remover cursos, bem como incluir conteúdos extras para disponibilizar aos alunos.             |
 | **RF-002**   | Incorporar Vídeos     | Permite o administrador incorporar vídeos do Youtube.            |
-| **RF-003**   | Gerenciar Conteúdo Extra | O administrador pode gerenciar os conteúdos extras dos cursos, como apostilas |
-| **RF-004**   | Anexar PDF´s | O administrador pode anexar PDF´s para os cursos. |
-| **RF-005**   | Manter Usuários |  Permite o administrador criar, atualizar, remover e tornar administrador os usuários. |
-| **RF-006**   | Acompanhar Progresso     | O administrador pode acompanhar o progresso dos alunos em cada curso. |
-| **RF-007**   | Acompanhar Progresso Individual       | Os usuários pode acompanhar o progresso em cada curso. |
+| **RF-003**   | Gerenciar Conteúdo Extra | O administrador pode gerenciar os conteúdos extras dos cursos, como PDF´s. |
+| **RF-004**   | Manter Usuários |  Permite o administrador criar e remover e tornar administrador os usuários. |
+| **RF-005**   | Acompanhar Progresso     | O administrador pode acompanhar o progresso dos alunos em cada curso. |
+| **RF-006**   | Acompanhar o Próprio Progresso       | Os usuários podem acompanhar o próprio progresso em cada curso. |
 
 
 ## REQUISITOS NÃO FUNCIONAIS
-A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
+A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome e descrição:
 
 | IDENTIFICADOR | NOME                           | DESCRIÇÃO                                                                                                |  
 |:-------------|:-------------------------------|:----------------------------------------------------------------------------------------------------------|  
 | **RNF-001**  | Desempenho e Escalabilidade                      | O sistema deve suportar simultaneamente pelo menos 100 usuários ativos sem degradação perceptível de desempenho, garantindo um tempo de resposta de no máximo 1 segundo |  
 | **RNF-002**  | Usabilidade                     | A interface deve ser intuitiva e claras tanto para administradores quanto para usuários. |  
 | **RNF-003**  |Acessibilidade Multiplataforma             | O sistema será acessível via navegador, com design responsivo para dispositivos móveis, permitindo aos usuários acessarem os cursos de qualquer lugar. |
-| **RNF-004**  | Formato Markdown                  | O sistema possuirá campos de textos em formato Markdown para que seja realizada a formatação da maneira que desejar nos cmapos de texto. |
+| **RNF-004**  | Formato Markdown                  | O sistema possuirá campos de textos em formato Markdown para que seja realizada a formatação da maneira que desejar nos campos de texto. |
 ---  
 
 
@@ -266,7 +263,7 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 | **Fluxo Principal / Básico:**       |  
 | 1. O usuário acessa a tela de login. |  
 | 2. Insere seu nome de usuário e senha. |  
-| 3. O sistema autentica as credenciais e redireciona para o dashboard do usuário. |  
+| 3. O sistema autentica as credenciais e redireciona para o a tela inicial do sistema. |  
 | **Fluxos Alternativos / Exceções:** |  
 | **A1: Credenciais inválidas** |  
 | 1. O sistema exibe uma mensagem de erro informando que as credenciais estão incorretas. |  
