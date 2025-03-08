@@ -16,4 +16,4 @@
 O projeto “Fórmula X” tem como objetivo [breve resumo do que o projeto faz], oferecendo [algumas informações sobre funcionalidades ou benefícios].   
 
 ### Link do Projeto  
-[Acesse o projeto](FormulaX/blob/main/projeto.md) para visualizar o repositório completo e entender melhor o escopo, objetivos e detalhes técnicos.
+[Acesse o projeto]([FormulaX/blob/main/projeto.md](https://github.com/YurizinDEVFormulaX/blob/main/projeto.md)) para visualizar o repositório completo e entender melhor o escopo, objetivos e detalhes técnicos.
