@@ -169,7 +169,7 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 
 ![Tela Criar Aula - Admin](img/figma/CriarCurso-Admin-2.jpg)  
 
-
+![Tela Criar Aula Preenchida - Admin](img/figma/CriarCurso-Admin-1.jpg) 
 
 <!-- 
 
