@@ -356,23 +356,23 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 
 # DIAGRAMAS DE SEQUÊNCIA
 
-![Diagrama de Sequência]()  
+![Diagrama de Sequência](img/DiagramSequencePaginadeLogin.png)  
 
-![Diagrama de Sequência]()  
+![Diagrama de Sequência](img/DiagramSequencePaginaInicial.png)  
 
-![Diagrama de Sequência]()  
+![Diagrama de Sequência](img/DiagramSequencePaginaMeusCursos.png)  
 
-![Diagrama de Sequência]()  
+![Diagrama de Sequência](img/DiagramSequencePaginadoCurso.png)  
 
-![Diagrama de Sequência]()  
+![Diagrama de Sequência](img/DiagramSequencePaginadeVisualizacao.png)  
 
-![Diagrama de Sequência]()  
+![Diagrama de Sequência](img/DiagramSequencePaginadePerfil.png)  
 
-![Diagrama de Sequência]()  
+![Diagrama de Sequência](img/DiagramSequenceGerenciamentodeUsuario.png)  
 
-![Diagrama de Sequência]()  
+![Diagrama de Sequência](img/DiagramSequenceGerenciamentodeCursos.png)  
 
-![Diagrama de Sequência]()  
+![Diagrama de Sequência](img/DiagramSequenceGerenciamentodeAulas.png)  
 
 --- 
 
