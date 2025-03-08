@@ -139,7 +139,7 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 
 ![Tela Inicial Logado](img/figma/Páginainicial.jpg)  
 
-![Tela Meus Cursos](img/figma/ .jpg)
+![Tela Meus Cursos](img/figma/CursosemAndamentoPrincipal.jpg)
 
 ![Tela Curso em Andamento](img/figma/CursosemAndamento.jpg) 
 
