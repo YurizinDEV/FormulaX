@@ -154,7 +154,7 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 
 ![Tela Curso Aula 3 Concluída](img/figma/Conjuntosnuméricos-Curso-4.jpg)
 
-![Tela Área do Usuário](img/figma/Áreadousuário.jpg)
+
 
 ## Fluxo Administrador
 ![Tela Gerenciamento de Usuários - Admin](img/figma/AcompanharAluno-Admin.jpg)  
