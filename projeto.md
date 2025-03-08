@@ -356,9 +356,26 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 
 # DIAGRAMAS DE SEQUÊNCIA
 
-*(Apresentar o diagrama de sequência ilustrando a interação entre o aluno e o sistema para acessar conteúdos, por exemplo.)*  
+![Diagrama de Sequência]()  
+
+![Diagrama de Sequência]()  
+
+![Diagrama de Sequência]()  
+
+![Diagrama de Sequência]()  
+
+![Diagrama de Sequência]()  
+
+![Diagrama de Sequência]()  
+
+![Diagrama de Sequência]()  
+
+![Diagrama de Sequência]()  
+
+![Diagrama de Sequência]()  
 
 --- 
+
 
 # DIAGRAMAS DE ATIVIDADE
 
