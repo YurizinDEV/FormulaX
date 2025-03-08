@@ -6,9 +6,9 @@
 ## *STAKEHOLDERS*
 |STAKEHOLDER|INTERESSE NO SISTEMA|
 |:---|:---|
-|Instituição de Ensino|Assegurar um ensino de qualidade, visando fornecer uma plataforma gratuita de cursos para serem usadas por alunos e professores|
-|Professores|Alinhar os cursos aos conteúdo acadêmicos|
-|Alunos|Obter acesso a conteúdos gratuitos, garantindo conhecimentos extras além do conteúdo ministrado em sala de aula|
+|Instituição de Ensino|Assegurar um ensino de qualidade, visando fornecer uma plataforma gratuita de cursos para serem usadas por alunos e professores.|
+|Professores|Alinhar os cursos aos conteúdo acadêmicos.|
+|Alunos|Obter acesso a conteúdos gratuitos, garantindo conhecimentos extras além do conteúdo ministrado em sala de aula.|
 
 
 # SUMÁRIO
