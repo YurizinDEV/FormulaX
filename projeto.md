@@ -95,7 +95,7 @@ Após identificar a demanda por material de apoio em formato virtual, analisou-s
 Foi adotado um modelo de desenvolvimento baseado em Kanban, contemplando análise de Throughput, Lead Time e Cycle Time para monitorar o progresso do projeto. Também foram utilizados protótipos no Figma para validação prévia da interface, além de revisões e ajustes contínuos com a equipe.  
 
 
-[INÍCIO](#projeto-de-software---formula-x)
+[ [INÍCIO](#projeto-de-software---formula-x) ]
 
 ---  
 
