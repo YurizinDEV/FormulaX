@@ -12,8 +12,6 @@
 - Thiago Hens Suchi  
 - Yuri Ribeiro Zetoles  
 
-### Plataforma de Cursos - MOOC
-
 # Modelo de Projeto de Software
 
 Modelo de Projeto de Software para a Disciplina de Engenharia de Software.
