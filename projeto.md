@@ -18,7 +18,6 @@
   * [PROPÓSITO DESTE DOCUMENTO](#propósito-deste-documento)
   * [CONCEPÇÃO DO SISTEMA](#concepção-do-sistema)
 * [DESCRIÇÃO GERAL](#descrição-geral)
-  * [USUÁRIOS DO SISTEMA](#usuários-do-sistema)
   * [ABRANGÊNCIA E SISTEMAS SIMILARES](#abrangência-e-sistemas-similares)
   * [SUPOSIÇÕES E DEPENDÊNCIAS](#suposições-e-dependências)
 * [ESTUDO DE VIABILIDADE](#estudo-de-viabilidade)
