@@ -32,6 +32,7 @@
 * [DIAGRAMA DE CLASSES](#diagrama-de-classes)
 * [DIAGRAMAS DE SEQUÊNCIA](#diagramas-de-sequência)
 * [DIAGRAMAS DE ATIVIDADE](#diagramas-de-atividade)
+* [EQUIPE DE DESENVOLVIMENTO E CLIENTE](#equipe-de-desenvolvimento-e-cliente)
 * [REFERÊNCIAS](#referências)
 
 
