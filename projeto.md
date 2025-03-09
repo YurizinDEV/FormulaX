@@ -393,7 +393,7 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 
 # EQUIPE DE DESENVOLVIMENTO E CLIENTE
 
-# DESENVOLVEDORES
+## DESENVOLVEDORES
 
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
@@ -402,7 +402,7 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 |Thiago Hens Suchi|Analista|thiagohenssuchi@gmail.com|
 |Yuri Ribeiro Zetoles|Analista|yurizetoles0123@gmail.com|
 
-# CLIENTE
+## CLIENTE
 
 |NOME|
 |:---|
