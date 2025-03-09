@@ -95,8 +95,8 @@ Após identificar a demanda por material de apoio em formato virtual, analisou-s
 Foi adotado um modelo de desenvolvimento baseado em Kanban, contemplando análise de Throughput, Lead Time e Cycle Time para monitorar o progresso do projeto. Também foram utilizados protótipos no Figma para validação prévia da interface, além de revisões e ajustes contínuos com a equipe.  
 
 
-[ [INÍCIO](#projeto-de-software---formula-x) ]
-[INÍCIO](#projeto-de-software---fórmula-x)
+[ [INÍCIO](#projeto-de-software---fórmula-x) ]
+
 
 ---  
 
@@ -250,7 +250,7 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 -->
 
 
-[ [INÍCIO](#projeto-de-software) ]
+[ [INÍCIO](#projeto-de-software---fórmula-x) ]
 
 
 # DIAGRAMA DE CASOS DE USO
@@ -349,7 +349,7 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 | 1. O aluno recebe uma mensagem de erro e aguarda a restauração do serviço. | 
 
 
-[ [INÍCIO](#projeto-de-software) ]  
+[ [INÍCIO](#projeto-de-software---fórmula-x) ]
 
 ---  
 
@@ -418,4 +418,4 @@ Esta subseção apresenta as referências aos documentos que utilizamos no auxí
 * [Práticas para Especificação de Requisitos IEEE-830](https://ieeexplore.ieee.org/document/720574)
 ---  
 
-[ [INÍCIO](#projeto-de-software) ]  
+[ [INÍCIO](#projeto-de-software---fórmula-x) ]
