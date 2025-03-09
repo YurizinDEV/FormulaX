@@ -19,7 +19,7 @@
   * [CONCEPÇÃO DO SISTEMA](#concepção-do-sistema)
 * [DESCRIÇÃO GERAL](#descrição-geral)
   * [USUÁRIOS DO SISTEMA](#usuários-do-sistema)
-  * [ABRANGÊNCIA E SISTEMAS SIMILARES](#abrangência-e-sistemas-similares)
+  * [SISTEMAS SIMILARES](#sistemas-similares)
   * [SUPOSIÇÕES E DEPENDÊNCIAS](#suposições-e-dependências)
 * [ESTUDO DE VIABILIDADE](#estudo-de-viabilidade)
 * [METODOLOGIA ADOTADA NO DESENVOLVIMENTO](#metodologia-adotada-no-desenvolvimento)
