@@ -249,7 +249,7 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 [ [INÍCIO](#projeto-de-software) ]
 
 
-# DIAGRAMA DE CASO DE USO
+# DIAGRAMA DE CASOS DE USO
 
 ![Diagrama de Casos de Uso](img/DiagramUseCaseFórmulaX.png)
 
