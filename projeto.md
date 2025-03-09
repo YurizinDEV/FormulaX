@@ -133,6 +133,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 # PROTOTIPAGEM
 Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de navegação, a apresentação de cursos e as funcionalidades de gerenciamento de conteúdo.  
 
+**Figma:**[FórmulaX](https://www.figma.com/design/P4LvxMlaYkkMfNqySWYlZO/Material-UI-for-Figma-(and-MUI-X)-(Community)?node-id=6036-164056&t=S5gz36h34ju0wwj5-1)
+
 ## Fluxo Usuário
 ![Tela Inicial Sem Login](img/figma/Páginainicial-1.jpg)  
 
