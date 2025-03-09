@@ -242,7 +242,7 @@ Os protótipos de telas foram desenvolvidos no Figma, representando o fluxo de n
 | **Pós-condições:** O sistema atualiza a lista de usuários. |  
 | **Fluxo Principal / Básico:**       |  
 | 1. O administrador acessa a seção de gerenciamento de usuários. |  
-| 2. Adiciona, edita ou exclui usuários. |  
+| 2. Adiciona ou exclui usuários. |  
 | 3. Visualiza e atribui permissões para cada usuário. |  
 
 ### UC-05 - Gerenciar Cursos  
