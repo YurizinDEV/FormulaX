@@ -18,6 +18,7 @@
   * [PROPÓSITO DESTE DOCUMENTO](#propósito-deste-documento)
   * [CONCEPÇÃO DO SISTEMA](#concepção-do-sistema)
 * [DESCRIÇÃO GERAL](#descrição-geral)
+  * [USUÁRIOS DO SISTEMA](#usuários-do-sistema)
   * [ABRANGÊNCIA E SISTEMAS SIMILARES](#abrangência-e-sistemas-similares)
   * [SUPOSIÇÕES E DEPENDÊNCIAS](#suposições-e-dependências)
 * [ESTUDO DE VIABILIDADE](#estudo-de-viabilidade)
@@ -65,6 +66,7 @@ Métodos utilizados para a obtenção dos requisitos do sistema:
 
 # DESCRIÇÃO GERAL
 
+### USUÁRIOS DO SISTEMA
 |USUÁRIO|DESCRIÇÃO|
 |:---|:---|
 |Administrador|Responsável pela gestão do sistema e administração e produção dos conteúdos mantidos na plataforma.|
@@ -74,7 +76,7 @@ Métodos utilizados para a obtenção dos requisitos do sistema:
 ### SISTEMAS SIMILARES:
 O projeto se assemelha a plataformas como Coursera(https://www.coursera.org) e Udemy(https://www.udemy.com), cujos objetivos incluem a hospedagem, organização e disponibilização de cursos de diversos temas. No entanto, a “Fórmula X” busca oferecer uma experiência mais direcionada a conteúdos complementares de acordo com as necessidades de cada aluno na instituição.
 
-## SUPOSIÇÕES E DEPENDÊNCIAS
+### SUPOSIÇÕES E DEPENDÊNCIAS
 
 Os usuários poderão acessar a plataforma através de computadores ou dispositivos móveis com acesso à internet para usufruir dos conteúdos disponibilizados. Como se trata de uma aplicação web, não há uma configuração mínima específica para visualização. No entanto, para os responsáveis pela administração do sistema, é recomendado o uso de um computador para a criação e gestão dos cursos, já que essas atividades exigem maior interação com as funcionalidades de gerenciamento.
 
