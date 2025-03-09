@@ -31,7 +31,7 @@
   * [ESPECIFICAÇÃO DOS CASOS DE USO](#descrição--especificação-dos-casos-de-uso)
 * [DIAGRAMA DE CLASSES](#diagrama-de-classes)
 * [DIAGRAMAS DE SEQUÊNCIA](#diagramas-de-sequência)
-* [DIAGRAMA DE ATIVIDADES](#diagrama-de-atividades)
+* [DIAGRAMAS DE ATIVIDADE](#diagramas-de-atividade)
 * [REFERÊNCIAS](#referências)
 
 
