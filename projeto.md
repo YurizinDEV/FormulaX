@@ -96,7 +96,7 @@ Foi adotado um modelo de desenvolvimento baseado em Kanban, contemplando anális
 
 
 [ [INÍCIO](#projeto-de-software---formula-x) ]
-[PROJETO DE SOFTWARE - Fórmula X](#projeto-de-software---fórmula-x)
+[INÍCIO](#projeto-de-software---fórmula-x)
 
 ---  
 
