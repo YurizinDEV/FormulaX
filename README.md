@@ -53,4 +53,4 @@ Ao final, o repositório deverá possuir o seguinte conteúdo:
 
 
 ### Link do Projeto  
-Acesse o [projeto](https://github.com/YurizinDEV/FormulaX/blob/main/projeto.md) para visualizar o repositório completo e entender melhor o escopo, objetivos e detalhes técnicos.
+Acesse o [projeto](projeto.md) para visualizar o repositório completo e entender melhor o escopo, objetivos e detalhes técnicos.
